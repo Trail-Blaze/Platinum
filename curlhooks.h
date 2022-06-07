@@ -2,7 +2,7 @@
 #include "curl.h"
 #include "url.h"
 
-#define URL_HOST "yourhostgoeshere.xyz"
+#define URL_HOST "dynamic.zero"
 
 #define LOG_URLS
 
