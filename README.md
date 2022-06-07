@@ -1,6 +1,6 @@
 # Platanium
 
-Just inject the DLL and set the [host](https://github.com/Trail-Blaze/Platinum/blob/master/curlhooks.h#L7) you wanna use.
+Just inject the DLL and set the [host](https://github.com/Trail-Blaze/Platinum/blob/master/curlhooks.h#L5) you wanna use.
 
 ## License
 
