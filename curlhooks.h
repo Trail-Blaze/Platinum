@@ -1,5 +1,5 @@
 #pragma once
-#include "curl.h"
+#include "curl/curl.h"
 #include "url.h"
 
 #define URL_HOST "dynamic.zero"

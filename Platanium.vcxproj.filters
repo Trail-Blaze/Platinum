@@ -6,11 +6,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="curlhooks.h" />
-    <ClInclude Include="curl.h" />
-    <ClInclude Include="curlver.h" />
+    <ClInclude Include="curl/curl.h" />
+    <ClInclude Include="curl/curlver.h" />
+    <ClInclude Include="curl/system.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="pch.h" />
-    <ClInclude Include="system.h" />
     <ClInclude Include="url.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
