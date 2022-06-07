@@ -43,7 +43,7 @@ jobs:
       uses: actions/upload-artifact@v3.1.0
       with:
           # Artifact name
-          name: build
+          name: platinum_build
           # A file, directory or wildcard pattern that describes what to upload
           path: ./bin/
           if-no-files-found: warn
