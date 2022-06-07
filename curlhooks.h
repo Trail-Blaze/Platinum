@@ -2,9 +2,7 @@
 #include "curl.h"
 #include "url.h"
 
-// Pick your poison
-//#define URL_HOST "v3.fortnite.dev"
-//#define URL_HOST "aurorafn.dev"
+#define URL_HOST "yourhostgoeshere.xyz"
 
 #define LOG_URLS
 
