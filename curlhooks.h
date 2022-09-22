@@ -2,7 +2,8 @@
 #include "curl/curl.h"
 #include "url.h"
 
-#define URL_HOST "dynamic.zero"
+// #define URL_HOST "dynamic.zero"
+#define URL_HOST "127.0.0.1"
 
 #define LOG_URLS
 
